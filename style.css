@@ -1,0 +1,96 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+
+
+
+
+
+
+i{
+
+	
+
+color:grey;	
+
+}
+
+
+
+
+h3{
+
+	background-color:rgba(220,220,220,1.00);
+
+	color:rgba(0,0,0,1.00);		
+
+}
+
+.pageWrapper {
+
+	width:600px;
+
+	margin:auto;
+
+	postion:relative;	
+
+	alighn:
+
+}
+
+
+
+
+.header{
+
+	background-color:rgba(220,220,220,1.00);
+
+	color:rgba(0,0,0,1.00);		
+
+}
+
+.employmentBody1{
+
+overflow-y: scroll;
+
+    height: 100px;
+
+	 width: 600px;
+
+    resize: none;
+
+	background-color:rgba(245,245,245,1.00);
+
+}
+
+
+
+
+.employmentBody2{
+
+overflow-y: scroll;
+
+    height: 100px;
+
+	width: 600px;
+
+    resize: none;
+
+	background-color:rgba(245,245,245,1.00);
+
+}
+
+.employmentBody3{
+
+overflow-y: scroll;
+
+    height: 100px;
+
+	width: 600px;
+
+    resize: none;
+
+	background-color:rgba(245,245,245,1.00);
+
+}
