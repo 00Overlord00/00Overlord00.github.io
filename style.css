@@ -82,3 +82,6 @@ h3{
 ul li {
 	padding-bottom: 16px;
 }
+li {
+	line-height: 4px;
+}
